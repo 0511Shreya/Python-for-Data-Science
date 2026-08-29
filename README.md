@@ -1,2 +1,2 @@
 # Python-for-Data-Science
-Hands-on Python notebooks for Data Science, covering NumPy, Pandas, TensorFlow, PyTorch and practical examples.
+A hands-on collection of Python and Data Science notebooks, covering core programming concepts and progressively moving toward NumPy, Pandas, TensorFlow and PyTorch.
